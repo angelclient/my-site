@@ -1,0 +1,49 @@
+body {
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+P{
+   font-size: 20px;
+    margin: 10px;
+    color: blue;
+    text-align: center;
+}
+
+#first {
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+}
+
+#second {
+    background-color: lightgreen;
+    padding: 10px;
+    margin: 10px;
+}
+
+#third {
+    background-color: lightcoral;
+    padding: 10px;
+    margin: 10px;
+}
+
+#first {
+    background-color: lightblue;
+    padding: 100px;
+    margin: 10px;
+}
+
+#second {
+    background-color: lightgreen;
+    padding: 50px;
+    margin: 10px;
+}
+
+#third {
+    background-color: lightcoral;
+    padding: 25px;
+    margin: 10px;
+}

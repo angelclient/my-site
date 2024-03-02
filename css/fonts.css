@@ -1,0 +1,36 @@
+body {
+    background-color: lightgoldenrodyellow;
+    font-family: Tіmes New Roman, "Times New Roman", Georgia;
+}
+
+.p1 {
+    font-size: 16px;
+    background: linear-gradient(teal, lime);
+    color: black;
+    text-align: center;
+    font-family: verdana, arial, helvetica;
+    font-style: inherit, sans-serif;
+}
+
+.p2 {
+    font-kerning: auto;
+    text-transform: lowercase;
+}
+
+.p3 {
+    font-family: "Lucida Handwriting", cursive;
+    text-shadow: 1px 1px 2px black;
+    color: green;
+    text-decoration: overline;
+    text-underline-position: overline;
+    text-decoration-style: wavy;
+}
+.p4 {
+    font-kerning: none;
+}
+.p5 {
+    font-size: 20px;
+    background: linear-gradient(yellow, blue);
+    color: black;
+    font-kerning: none;
+    text-shadow: 1px 1px 2px black;

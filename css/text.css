@@ -1,0 +1,59 @@
+ @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Kablammo&family=Marck+Script&family=Poiret+One&family=Rubik+Glitch+Pop&family=Train+One&display =обмен');
+h1{
+	font-weight: normal;
+	text-align: center;
+	font-family: "Rubik Glitch Pop";
+	text-transform: uppercase;
+}
+h2{
+	font-weight: normal;
+	text-align: center;
+	font-family: "Rubik Glitch Pop";
+	text-transform: uppercase;
+}
+h3{
+	font-weight: normal;
+	text-align: center;
+	font-family: "Rubik Glitch Pop";
+	text-transform: uppercase;
+}
+h4{
+	font-weight: normal;
+	text-align: center;
+	font-family: "Rubik Glitch Pop";
+	text-transform: uppercase;
+}
+h5{
+	font-weight: normal;
+	text-align: center;
+	font-family: "Rubik Glitch Pop";
+	text-transform: uppercase;
+}
+h6{
+	font-weight: normal;
+	text-align: center;
+	font-family: "Rubik Glitch Pop";
+	text-transform: uppercase;
+}
+h7{
+	font-weight: normal;
+	text-align: center;
+	font-family: "Rubik Glitch Pop";
+	text-transform: uppercase;
+}
+p{
+	text-indent: 32px;
+	font-size: 16px;
+	color: black;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#imgl{
+	float: right;
+	margin-right: 20px;
+
+}
+figure{
+	float: right;
+	border: solid 1px grey;
+}
